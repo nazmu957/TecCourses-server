@@ -4,84 +4,84 @@
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Computer Fundamentals",
+      "title": "Frontend Development",
       "author": {
         "name": "Jimmy Dane"
       },
       
-      "image_url": "https://m.media-amazon.com/images/I/41qzVdWeIIL._SX356_BO1,204,203,200_.jpg",
+      "image_url": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/173564786/original/97a7c8fe412f051cba88703d7567370c19504582/be-your-front-end-developer-html-css-bootstrap.png",
       
-      "details": "Computer is a device that transforms data into meaningful information.Data can be anything like marks obtained by you in various subjects.It can also be name,age,sex,weight,height,etc. of all the students in a class.Computer can also be defined  in terms of functions.Computer is an advanced electronic device that takes raw data as an input from the user and processes it under the control of a set of instructions (called program), produces a result (output), and saves it for future use. This tutorial explains the foundational concepts of computer hardware, software, operating systems, peripherals, etc. along with how to get the most value and impact from computer technology.  "
+      "details": "Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. The challenge associated with front end development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing.The objective of designing a site is to ensure that when the users open up the site they see the information in a format that is easy to read and relevant. This is further complicated by the fact that users now use a large variety of devices with varying screen sizes and resolutions thus forcing the designer to take into consideration these aspects when designing the site. They need to ensure that their site comes up correctly in different browsers (cross-browser), different operating systems (cross-platform) and different devices (cross-device), which requires careful planning on the side of the developer."
     },
      {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6",
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Programming and Problem Solving",
+      "title": "Backend development",
       "author": {
         "name": "Jimmy Dane"
       },
       
-      "image_url": "https://d3gy99intf9w7w.cloudfront.net/2187-large_default/computer-programming-volume-1.jpg",
+      "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210408171241/12-Backend-Development-Tools-For-Web-Developers.png",
       
-      "details": "Whether you’re looking to begin coding as a hobby, a new career, or just to enhance your current role, the first thing you’ll have to do is decide which programming language you want to start with.There is no right answer, of course. Choosing a first language will depend on what kind of projects you want to work on, who you want to work for, or how easy you want it to be. Hopefully, this guide will help give you a better idea of which one you should pursue.BASIC was an early programming language that is still among the simplest and most popular of programming languages. BASIC stands for Beginner's All-purpose Symbolic Instruction Code. Originally designed as an interactive mainframe timesharing language by John Kemeney and Thomas Kurtz in 1963, it became widely used on personal computers everywhere.  On IBM's firstcomputer, the PCJr, a BASIC cartridge was a popular add-on. Because of its simplicity, BASIC has frequently been used in teaching the introductory concepts of programming with a working language. "
+      "details": "A back-end developer writes code that forms the backbone of a website or app. Learn more about this career field and how to get started.Ever wonder what goes on behind the scenes of a website? How, exactly, does clicking on a button take you to a different page? And where does your personal information go when you sign up for a free trial? Back-end developers are the experts who build and maintain the mechanisms that process data and perform actions on websites. Unlike front-end developers, who control everything you can see on a website, back-end developers are involved in data storage, security, and other server-side functions that you cannot see.Since the late 80s and 90s, the internet has transformed the way humans access information, and web development has continued to evolve. Its central importance to our digital world means web developers are in high demand. Fortunately, anyone can learn the technical skills needed to be front-end, back-end, or full-stack (both front- and back-end) developers. "
     },
      {
       "_id": "0282e0e58a5c404fbd15261f11c2ab",
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Data Structures",
+      "title": "Full Stack Development",
       "author": {
         "name": "Jimmy Dane"
       },
       
-      "image_url": "https://qph.cf2.quoracdn.net/main-qimg-bd05bec96c4ce1cf26e3c48165985e2d.webp",
+      "image_url": "https://www.spaceo.ca/wp-content/uploads/2021/05/what-is-full-stack-development.jpg",
       
-      "details": "A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge about data structures.For programmers, algorithms and data structures are their most essential subjects—a programmer’s bread and butter if you will. If you want to enter the field of programming and hit the ground running, you’ll need to master the most common data structures and boost your resume with in-demand skills.Here, we’ll explore the eight most important data structures every programmer should know, including what they do and where to use them. To start, let’s gain a fundamental understanding of what a data structure is.  "
+      "details": "What is a Full Stack Engineer?Full stack technology refers to the entire depth of a computer system application, and full stack developers straddle two separate web development domains: the front end and the back end.The front end includes everything that a client, or site viewer, can see and interact with. By contrast, the back end refers to all the servers, databases, and other internal architecture that drives the application; usually, the end-user never interacts with this realm directly. The easiest way to put the full stack into perspective is to imagine a restaurant. The front end encompasses the well-decorated, comfortable seating areas where visitors enjoy their food. The kitchen and pantry make up the “back end” and are typically hidden away from the customer’s view. Chefs (developers) gather permanently stored materials from the pantry (the database) and perform operations on it in the kitchen (the server), and then serve up fully-prepared meals (information) to the user."
     },
      {
       "_id": "0282e0e58a5c404fbd15261f11c2a",
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Object Oriented Programming",
+      "title": "Graphics design",
       "author": {
         "name": "Jimmy Dane"
       },
       
-      "image_url": "https://data03.123doks.com/thumbv2/123dok/002/011/2011399/cover.webp",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7FZU61_0TU214J3XpPDFb1VyOQF-6cvIByg&usqp=CAU",
       
-      "details": "Object-oriented programming combines a group of data attributes with functions or methods into a unit called an object. Typically, OOP languages are class-based, which means that a class defines the data attributes and functions as a blueprint for creating objects, which are instances of the class. Popular class-based OOP languages include Java, Python and C++. Multiple independent objects may be instantiated—or represented—from the same class and interact with each other in complex ways.A simple example would be a class representing a person. The person class would contain attributes to represent information such as the person’s age, name, height, etc. The class definition might also contain functions such as sayMyName which would simply print that person’s name to the screen.A family could be constructed by instantiating person objects from the class for each member of the family. Each person object would contain different data attributes since each person is unique. "
+      "details": "When you think of graphic design, do you think of artistic advertisements? Eye-grabbing graphics on websites? Stunningly arranged spreads in magazines? While these examples certainly fit under the graphic design definition, the term encompasses a lot: posters, infographics, book covers, product labels, logos, business cards, signs, website layouts, mobile apps, software interfaces—the list goes on.So what is graphic design, exactly? Listing these graphic design examples is a good start, but it doesn’t paint the full picture. While covering the details and intricacies of the entire graphic design field might not be possible in one article, this high-level overview will help you better understand this creative career field. "
     },
      {
       "_id": "0282e0e58a5c404fbd15261f11c2",
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Algorithms",
+      "title": "Android Development",
       "author": {
         "name": "Jimmy Dane"
       },
       
-      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/513P8XoCAEL._AC._SR360,460.jpg",
+      "image_url": "https://www.appschopper.com/blog/wp-content/uploads/2021/01/Android-App-Development.png",
       
-      "details": "A programming algorithm is a procedure or formula used for solving a problem. It is based on conducting a sequence of specified actions in which these actions describe how to do something, and your computer will do it exactly that way every time. An algorithm works by following a procedure, made up of inputs. Once it has followed all the inputs, it will see a result, also known as output.The word algorithm was first coined in the 9th century. Algorithms are all around us. Common examples include: the recipe for baking a cake, the method we use to solve a long division problem, the process of doing laundry, and the functionality of a search engine are all examples of an algorithm.   "
+      "details": "An Android Developer is a software developer who specializes in designing applications for android operating systems. Android is an operating system that is a hot cake in the market. Developing applications for android is on the boom, so the demand for an android developer is very high. According to the Bureau of Labor Statistics, the demand for software developers, which includes Android developers, is expected to rise by 17 per cent through 2024. Android and iOS developers are almost the same. An Android developer should have some necessary technical and non-technical skills which help them to make a career in the Android development field."
     },
      {
       "_id": "0282e0e58a5c404fbd15261f11c",
       "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Data Communication",
+      "title": "Cyber Security ",
       "author": {
         "name": "Jimmy Dane"
       },
       
-      "image_url": "https://cdn01.sapnaonline.com/bk_images/700/9789350141700.jpg",
+      "image_url": "https://www.springboard.com/blog/wp-content/uploads/2022/02/is-cybersecurity-hard-1536x759.jpg",
       
-      "details": "Data communications incorporate several techniques and technologies to enable any form of electronic communication. It’s a very broad way to refer to all of this networked technology on any platform or in any digital environment.Some common types of data communications technologies include telecommunications, computer networking and radio/satellite communication. Data communication usually requires the existence of a transportation or communication medium between the nodes wanting to communicate with each other, such as copper wire, fiber optic cables, or wireless signals.For example, a common example of data communications is a computer connected to the Internet via a Wi-Fi connection, which uses a wireless medium to send and receive data from one or more remote servers.Some devices/technologies used in data communications are known as data communication equipment (DCE) and data terminal equipment (DTE). DCE is used at the sending node, and DTE is used at the receiving node.Another way to talk about different types of data communications is to refer to the functionality that is available for a sender and a receiver to use. In terms of communications function, you have simplex communications, which are only one-way data communications, and you have half-duplex and full-duplex data communications models, as well as serial data communications."
+      "details": "The past two decades have seen massive growth in the internet and computer industry, leading to a boom in job opportunities in the field. Cyber security is one of these career opportunities due to its need in today’s digitally paced world.Since it’s still a relatively new concept, most people wonder if cyber security is hard to learn. Sure enough, when you’re new to the field, the concepts may seem overwhelming. But how difficult is cyber security to get into? You’ll find the answer to this question in the guide below. Plus, you’ll learn how to get started with learning cyber security."
     },
      {
       "_id": "0282e0e58a5c404fbd15261f11",
@@ -93,7 +93,7 @@
         "name": "Jimmy Dane"
       },
       
-      "image_url": "https://5.imimg.com/data5/FS/AH/GLADMIN-17084875/computer-networks-book-500x500.png",
+      "image_url": "https://i.ytimg.com/vi/bY5OfBrBg1M/maxresdefault.jpg",
       
       "details": "Computer networks share common devices, functions, and features including servers, clients, transmission media, shared data, shared printers and other hardware and software resources, network interface card(NIC), local operating system(LOS), and the network operating system (NOS).Servers - Servers are computers that hold shared files, programs, and the network operating system. Servers provide access to network resources to all the users of the network. There are many different kinds of servers, and one server can provide several functions. For example, there are file servers, print servers, mail servers communication servers, database servers, fax servers and web servers, to name a few. Sometimes it is also called host computer, servers are powerful computer that store data or application and connect to resources that are shared by the user of a network.Clients - Clients are computers that access and use the network and shared network resources. Client computers are basically the customers(users) of the network, as they request and receive services from the servers. These days, it is typical for a client to be a personal computer that the users also use for their own non-network applications.Transmission Media - Transmission media are the facilities used to interconnect computers in a network, such as twisted-pair wire, coaxial cable, and optical fiber cable. Transmission media are sometimes called transmission medium channels, links or lines.Shared data - Shared data are data that file servers provide to clients such as data files, printer access programs and e-mail.Shared printers and other peripherals - Shared printers and peripherals are hardware resources provided to the users of the network by servers. Resources provided include data files, printers, software, or any other items used by clients on the network."
     }

@@ -1,31 +1,31 @@
 [
     {
       "id": "01",
-      "name": "Computer Fundamentals"
+      "name": "Frontend Development"
     },
     {
       "id": "02",
-      "name": "Programming and Problem Solving"
+      "name": "Backend Development"
     },
     {
       "id": "03",
-      "name": "Data Structure"
+      "name": "Full Stack Development"
     },
     {
       "id": "04",
-      "name": "Object Oriented Programming"
+      "name": "Graphics designing"
     },
     {
       "id": "05",
-      "name": "Algorithms"
+      "name": "Android Development"
     },
     {
       "id": "06",
-      "name": "Data Communication"
+      "name": "Cyber Security"
     },
     {
       "id": "07",
-      "name": "Computer Networks"
+      "name": "Networking"
     },
     {
       "id": "08",
