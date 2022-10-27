@@ -5,12 +5,14 @@ const port = process.env.PORT || 5000
 
 app.use(cors());
 
+//json file
 const categories = require('./data/categories.json')
 const courses = require('./data/courses.json')
 
 app.get('/', (req, res) => {
   res.send('TecCourses Api Running')
 })
+
 
 app.get('/courses-categories', (req, res) => {
   res.send(categories)
