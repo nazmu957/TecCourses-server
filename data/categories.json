@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Computer Fundamentals"
+    },
+    {
+      "id": "02",
+      "name": "Programming and Problem Solving"
+    },
+    {
+      "id": "03",
+      "name": "Data Structure"
+    },
+    {
+      "id": "04",
+      "name": "Object Oriented Programming"
+    },
+    {
+      "id": "05",
+      "name": "Algorithms"
+    },
+    {
+      "id": "06",
+      "name": "Data Communication"
+    },
+    {
+      "id": "07",
+      "name": "Computer Networks"
+    },
+    {
+      "id": "08",
+      "name": "All Courses"
+    }
+  ]
