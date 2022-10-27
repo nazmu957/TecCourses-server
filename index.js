@@ -37,5 +37,5 @@ app.get('/courses/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log('TecCourses Course running on port', port)
+  console.log('TecCourses course running on port', port)
 })
